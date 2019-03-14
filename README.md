@@ -1,5 +1,7 @@
 # Right to Buy homes re-sold since 2000 made £6.4bn in profit
 
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/D833/production/_90574355_mediaitem90574354.jpg)
+
 In March 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-47443183) on the impact of the Right to Buy policy under which former social housing tenants were allowed to buy their home at a discount, the size of which depended how long they had lived there.
 
 We sourced and analysed data from HM Land Registry, the Registers of Scotland and the Northern Ireland Housing Executive.  Data for 92,000 sales was published in Freedom of Information responses.
