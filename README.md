@@ -38,7 +38,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Hereford Times: [Revealed, big profits Herefordshire folk made on their council houses](https://www.herefordtimes.com/news/17498931.revealed-the-big-profits-herefordshire-people-made-on-their-council-houses/) *14 March 2018*
 * Bradford: The Telegraph & Argus: [Right to Buy scheme profit revealed](https://www.thetelegraphandargus.co.uk/news/17498021.right-to-buy-scheme-profit-revealed/) *14 March 2018*
 * Isle of Wight County Press: [Isle of Wight tenants re-selling their council homes make more than £2.6 million profit](https://www.countypress.co.uk/news/17500662.isle-of-wight-tenants-re-selling-their-council-homes-make-more-than-26-million-profit/?ref=twtrec) *14 March 2018*
-* Flintshire: The Leader: [Ex-council tenants in Wrexham and Flintshire make average £30,000 profit selling their homes](Ex-council tenants in Wrexham and Flintshire make average £30,000 profit selling their homes) *14 March 2018*
+* Flintshire: The Leader: [Ex-council tenants in Wrexham and Flintshire make average £30,000 profit selling their homes](https://www.leaderlive.co.uk/news/17500629.ex-council-tenants-in-wrexham-and-flintshire-make-average-30000-profit-selling-their-homes/) *14 March 2018*
 * Essex: The Gazette: [Right to Buy: Resale profits average £62,000 in Essex](https://www.gazette-news.co.uk/news/17498344.right-to-buy-resale-profits-average-62000-in-essex/) *14 March 2018*
 * Wrexham.com: [£30k average gain on Right to Buy homes in Wrexham](http://www.wrexham.com/news/30k-average-gain-on-right-to-buy-homes-in-wrexham-165251.html) *14 March 2018*
 * Edinburgh Evening News: [‘Devastating impact’ on Edinburgh as 2,000 council homes resold in past 19 years](https://www.edinburghnews.scotsman.com/news/politics/devastating-impact-on-edinburgh-as-2-000-council-homes-resold-in-past-19-years-1-4889074https://www.edinburghnews.scotsman.com/news/politics/devastating-impact-on-edinburgh-as-2-000-council-homes-resold-in-past-19-years-1-4889074) *14 March 2018*
@@ -47,6 +47,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Stoke Sentinel: [172 ex-council homes sold for combined profit of £3.5 million over last three years (and one house netted the owner £242k)](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/172-ex-council-homes-sold-2640640) *14 March 2018*
 * Nottingham Post: ['Right To Buy scheme discounts are too high - and it's leaving us short of council houses'](https://www.nottinghampost.com/news/nottingham-news/right-buy-scheme-discounts-high-2631452) *14 March 2018*
 * Flintshire: Deeside.com [People selling homes bought under Right to Buy scheme in Flintshire made nearly £30k on average.](http://www.deeside.com/people-selling-homes-bought-under-right-to-buy-scheme-in-flintshire-made-nearly-30k-on-average/) *14 March 2018*
+
+Non-partner coverage:
+
+* Inside Housing: [Morning Briefing: £6.4bn in Right to Buy resale profit](https://www.insidehousing.co.uk/news/morning-briefing-64bn-in-right-to-buy-resale-profit-60624) *14 March 2018*
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1J8hc0dvnaRbSNphk3I0SHtiWO0E-uwrQ), Midlands Today, BBC Radio London, , BBC Good Morning Ulster, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
 
