@@ -41,6 +41,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nottingham Post: ['Right To Buy scheme discounts are too high - and it's leaving us short of council houses'](https://www.nottinghampost.com/news/nottingham-news/right-buy-scheme-discounts-high-2631452) *14 March 2018*
 * Flintshire: Deeside.com [People selling homes bought under Right to Buy scheme in Flintshire made nearly £30k on average.](http://www.deeside.com/people-selling-homes-bought-under-right-to-buy-scheme-in-flintshire-made-nearly-30k-on-average/) *14 March 2018*
 
+The story was also used by Midlands Today, BBC Radio London, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
 
 ## Get the data
 
