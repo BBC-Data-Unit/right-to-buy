@@ -47,6 +47,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Stoke Sentinel: [172 ex-council homes sold for combined profit of £3.5 million over last three years (and one house netted the owner £242k)](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/172-ex-council-homes-sold-2640640) *14 March 2018*
 * Nottingham Post: ['Right To Buy scheme discounts are too high - and it's leaving us short of council houses'](https://www.nottinghampost.com/news/nottingham-news/right-buy-scheme-discounts-high-2631452) *14 March 2018*
 * Flintshire: Deeside.com [People selling homes bought under Right to Buy scheme in Flintshire made nearly £30k on average.](http://www.deeside.com/people-selling-homes-bought-under-right-to-buy-scheme-in-flintshire-made-nearly-30k-on-average/) *14 March 2018*
+* Stourbridge News: [Ex-Dudley Council tenant sold Right to Buy home for double the price after five months](https://www.stourbridgenews.co.uk/news/17501834.ex-dudley-council-tenant-sold-right-to-buy-home-for-double-the-price-after-five-months/) *14 March 2018*
+* Dudley News: [Ex-Dudley Council tenant sold Right to Buy home for double the price after five months](https://www.dudleynews.co.uk/news/17501834.ex-dudley-council-tenant-sold-right-to-buy-home-for-double-the-price-after-five-months/) *14 March 2018* 
+* Halesowen News: [Ex-Dudley Council tenant sold Right to Buy home for double the price after five months](https://www.halesowennews.co.uk/news/17501834.ex-dudley-council-tenant-sold-right-to-buy-home-for-double-the-price-after-five-months/) *14 March 2018*
 
 Non-partner coverage:
 
