@@ -49,6 +49,10 @@ The story was also used by Midlands Today, BBC Radio London, BBC Radio Bristol, 
 * [For Scotland](https://docs.google.com/spreadsheets/d/11twlEuKTyiG65gJ5lXPqMgLH-i2tUw2La4lw_Zp_WAQ/edit?usp=sharing)
 * [For Northern Ireland](https://docs.google.com/spreadsheets/d/13Sao1zwb2G_MH7GUxAD3A4yVUnFTMdm4I_adiYnNrkc/edit?usp=sharing)
 
+## Visualisation
+
+* Map: Profits made per day on ex-council homes across Britain
+* Bar chart: The difference in profits on resold council homes
 
 ## Background and briefing
 
