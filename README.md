@@ -55,7 +55,7 @@ Non-partner coverage:
 
 * Inside Housing: [Morning Briefing: £6.4bn in Right to Buy resale profit](https://www.insidehousing.co.uk/news/morning-briefing-64bn-in-right-to-buy-resale-profit-60624) *14 March 2018*
 
-The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1J8hc0dvnaRbSNphk3I0SHtiWO0E-uwrQ), Midlands Today, BBC Radio London, , BBC Good Morning Ulster, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
+The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1J8hc0dvnaRbSNphk3I0SHtiWO0E-uwrQ), Midlands Today, BBC Radio London, BBC Good Morning Ulster, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
 
 ## Get the data
 
