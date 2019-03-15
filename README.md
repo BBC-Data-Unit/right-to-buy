@@ -50,10 +50,16 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Stourbridge News: [Ex-Dudley Council tenant sold Right to Buy home for double the price after five months](https://www.stourbridgenews.co.uk/news/17501834.ex-dudley-council-tenant-sold-right-to-buy-home-for-double-the-price-after-five-months/) *14 March 2018*
 * Dudley News: [Ex-Dudley Council tenant sold Right to Buy home for double the price after five months](https://www.dudleynews.co.uk/news/17501834.ex-dudley-council-tenant-sold-right-to-buy-home-for-double-the-price-after-five-months/) *14 March 2018* 
 * Halesowen News: [Ex-Dudley Council tenant sold Right to Buy home for double the price after five months](https://www.halesowennews.co.uk/news/17501834.ex-dudley-council-tenant-sold-right-to-buy-home-for-double-the-price-after-five-months/) *14 March 2018*
+* Diss Mercury: [From £9,000 to £125,000 in 67 days - Norfolk’s council house sale profits revealed](https://www.dissmercury.co.uk/news/norfolk-suffolk-right-to-buy-council-house-sale-profits-1-5937154) *14 March 2018*
+* Surrey Live: [Right to Buy homes in Surrey being sold for as much as £1m, figures reveal](https://www.getsurrey.co.uk/news/surrey-news/right-buy-homes-surrey-being-15957725) *14 March 2018*
+* Portsmouth: The News: [New research shows how right-to-buy scheme has crippled Britain’s affordable housing stock](https://www.portsmouth.co.uk/news/politics/new-research-shows-how-right-to-buy-scheme-has-crippled-britain-s-affordable-housing-stock-1-8848786) *14 March 2018*
+* Blackpool: The Gazette: [Figures reveal profit made on Fylde coast ‘Right to Buy’ houses](https://www.blackpoolgazette.co.uk/news/figures-reveal-profit-made-on-fylde-coast-right-to-buy-houses-1-9649920) *14 March 2018*
 
 Non-partner coverage:
 
+* The Times: [Right to Buy owners made £6.4bn by reselling homes](https://www.thetimes.co.uk/edition/news/right-to-buy-owners-made-6-4bn-by-reselling-homes-l6xxr76mn) *15 March 2018*
 * Inside Housing: [Morning Briefing: £6.4bn in Right to Buy resale profit](https://www.insidehousing.co.uk/news/morning-briefing-64bn-in-right-to-buy-resale-profit-60624) *14 March 2018*
+* [LGiU Daily News Bulletin](https://twitter.com/LGiU_Daily_News/status/1106455060798672896) *15 March 2018* 
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1J8hc0dvnaRbSNphk3I0SHtiWO0E-uwrQ), Midlands Today, BBC Radio London, BBC Good Morning Ulster, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
 
