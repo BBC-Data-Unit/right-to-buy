@@ -54,6 +54,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Surrey Live: [Right to Buy homes in Surrey being sold for as much as £1m, figures reveal](https://www.getsurrey.co.uk/news/surrey-news/right-buy-homes-surrey-being-15957725) *14 March 2018*
 * Portsmouth: The News: [New research shows how right-to-buy scheme has crippled Britain’s affordable housing stock](https://www.portsmouth.co.uk/news/politics/new-research-shows-how-right-to-buy-scheme-has-crippled-britain-s-affordable-housing-stock-1-8848786) *14 March 2018*
 * Blackpool: The Gazette: [Figures reveal profit made on Fylde coast ‘Right to Buy’ houses](https://www.blackpoolgazette.co.uk/news/figures-reveal-profit-made-on-fylde-coast-right-to-buy-houses-1-9649920) *14 March 2018*
+* Northampton Chronicle: [Former social housing tenants in Northampton made up to £148k in profit by selling on their council house](https://www.northamptonchron.co.uk/news/former-social-housing-tenants-in-northampton-made-up-to-148k-in-profit-by-selling-on-their-council-house-1-8851000) *15 March 2018*
 
 Non-partner coverage:
 
