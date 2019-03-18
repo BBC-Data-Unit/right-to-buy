@@ -62,6 +62,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northumberland Gazette: [Data reveals profits made on former council houses](https://www.northumberlandgazette.co.uk/news/data-reveals-profits-made-on-former-council-houses-1-9648430) *14 March 2018*
 * Northampton Chronicle: [Former social housing tenants in Northampton made up to £148k in profit by selling on their council house](https://www.northamptonchron.co.uk/news/former-social-housing-tenants-in-northampton-made-up-to-148k-in-profit-by-selling-on-their-council-house-1-8851000) *15 March 2018*
 * Harwich and Manningtree Standard *14 March 2018*
+* ITV Central *14 March 2018*
 
 
 Non-partner coverage:
