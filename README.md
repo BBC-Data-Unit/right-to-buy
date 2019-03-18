@@ -82,7 +82,7 @@ The story was also used by the [BBC News Channel](https://drive.google.com/open?
 
 ## Visualisation
 
-* Map: Profits made per day on ex-council homes across Britain
+* Interactive Carto Map: Profits made per day on ex-council homes across Britain
 * Bar chart: The difference in profits on resold council homes
 
 ## Background and briefing
