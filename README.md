@@ -63,6 +63,7 @@ Non-partner coverage:
 
 * The Times: [Right to Buy owners made £6.4bn by reselling homes](https://www.thetimes.co.uk/edition/news/right-to-buy-owners-made-6-4bn-by-reselling-homes-l6xxr76mn) *15 March 2018*
 * Inside Housing: [Morning Briefing: £6.4bn in Right to Buy resale profit](https://www.insidehousing.co.uk/news/morning-briefing-64bn-in-right-to-buy-resale-profit-60624) *14 March 2018*
+* Scottish Housing News: [Scottish council homes sold for £2bn profit under Right to Buy](https://www.scottishhousingnews.com/article/scottish-council-homes-sold-for-2bn-profit-under-right-to-buy) *14 March 2018*
 * [LGiU Daily News Bulletin](https://twitter.com/LGiU_Daily_News/status/1106455060798672896) *15 March 2018* 
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1J8hc0dvnaRbSNphk3I0SHtiWO0E-uwrQ), Midlands Today, BBC Radio London, BBC Good Morning Ulster, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
