@@ -11,7 +11,7 @@ The investigation found homes in Britain bought under the scheme had been sold o
 In England and Wales
 * Between 2000 and 2018, some 53,000 homeowners made £5bn in profit, or £4.3bn in real terms.  Around one in 20 made a loss in real terms.
 * The average time people kept their RtB home before selling it on was seven-and-a-half years
-* 140 ex-council tenants in Great Britain bought and resold their homes within one month, creating a £3m collective profit 
+* 139 ex-council tenants in Great Britain bought and resold their homes within one month, creating a £2.8m collective profit 
 
 In Scotland
 * Homeowners from 39,000 sales we analysed made £2.3bn in profit or £2.05bn in real terms.  Some one in 50 sellers made a real terms loss
