@@ -45,6 +45,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Edinburgh Evening News: [‘Devastating impact’ on Edinburgh as 2,000 council homes resold in past 19 years](https://www.edinburghnews.scotsman.com/news/politics/devastating-impact-on-edinburgh-as-2-000-council-homes-resold-in-past-19-years-1-4889074https://www.edinburghnews.scotsman.com/news/politics/devastating-impact-on-edinburgh-as-2-000-council-homes-resold-in-past-19-years-1-4889074) *14 March 2018*
 * Isle of Wight: On The Wight: [More than £2.6m profit made by tenants selling council homes](https://onthewight.com/more-than-2-6m-profit-made-by-tenants-selling-council-homes/) *14 March 2018*
 * Essex: The Clacton and Frinton Gazette: [Right to Buy: Resale profits average £62,000 in Essex](https://www.clactonandfrintongazette.co.uk/news/17498344.right-to-buy-resale-profits-average-62000-in-essex/) *14 March 2018*
+* Brentwood Live: [Right to Buy: Resale profits average £62,000 in Essex](https://www.brentwoodlive.co.uk/news/17498344.right-to-buy-resale-profits-average-62000-in-essex/) *14 March 2018*
 * Stoke Sentinel: [172 ex-council homes sold for combined profit of £3.5 million over last three years (and one house netted the owner £242k)](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/172-ex-council-homes-sold-2640640) *14 March 2018*
 * Nottingham Post: ['Right To Buy scheme discounts are too high - and it's leaving us short of council houses'](https://www.nottinghampost.com/news/nottingham-news/right-buy-scheme-discounts-high-2631452) *14 March 2018*
 * Flintshire: Deeside.com [People selling homes bought under Right to Buy scheme in Flintshire made nearly £30k on average.](http://www.deeside.com/people-selling-homes-bought-under-right-to-buy-scheme-in-flintshire-made-nearly-30k-on-average/) *14 March 2018*
@@ -60,6 +61,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Berwick Advertiser: [Data reveals profits made on former council houses](https://www.berwick-advertiser.co.uk/news/data-reveals-profits-made-on-former-council-houses-1-4888817) *14 March 2018*
 * Northumberland Gazette: [Data reveals profits made on former council houses](https://www.northumberlandgazette.co.uk/news/data-reveals-profits-made-on-former-council-houses-1-9648430) *14 March 2018*
 * Northampton Chronicle: [Former social housing tenants in Northampton made up to £148k in profit by selling on their council house](https://www.northamptonchron.co.uk/news/former-social-housing-tenants-in-northampton-made-up-to-148k-in-profit-by-selling-on-their-council-house-1-8851000) *15 March 2018*
+* Harwich and Manningtree Standard *14 March 2018*
+
 
 Non-partner coverage:
 
