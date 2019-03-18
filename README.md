@@ -56,6 +56,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Blackpool: The Gazette: [Figures reveal profit made on Fylde coast ‘Right to Buy’ houses](https://www.blackpoolgazette.co.uk/news/figures-reveal-profit-made-on-fylde-coast-right-to-buy-houses-1-9649920) *14 March 2018*
 * Southwark News: [EX-SOUTHWARK COUNCIL TENANTS MAKE £350M IN RIGHT TO BUY PROFITS SINCE 2000, ANALYSIS FINDS](https://www.southwarknews.co.uk/news/right-to-buy-southwark-profit-council-homes/) *14 March 2018*
 * Whitchurch Herald: [£50k profit on Right to Buy homes in Shropshire](https://www.whitchurchherald.co.uk/news/17501737.50k-profit-on-right-to-buy-homes-in-shropshire/) *14 March 2018*
+* Berwick Advertiser: [Data reveals profits made on former council houses](https://www.berwick-advertiser.co.uk/news/data-reveals-profits-made-on-former-council-houses-1-4888817) *14 March 2018*
 * Northampton Chronicle: [Former social housing tenants in Northampton made up to £148k in profit by selling on their council house](https://www.northamptonchron.co.uk/news/former-social-housing-tenants-in-northampton-made-up-to-148k-in-profit-by-selling-on-their-council-house-1-8851000) *15 March 2018*
 
 Non-partner coverage:
