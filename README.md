@@ -63,6 +63,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northampton Chronicle: [Former social housing tenants in Northampton made up to £148k in profit by selling on their council house](https://www.northamptonchron.co.uk/news/former-social-housing-tenants-in-northampton-made-up-to-148k-in-profit-by-selling-on-their-council-house-1-8851000) *15 March 2018*
 * Harwich and Manningtree Standard *14 March 2018*
 * ITV Central *14 March 2018*
+* Coventry Live: [Council house tenants clean up selling homes they bought at a discount](https://www.coventrytelegraph.net/news/coventry-news/council-house-tenants-clean-up-15991325) *18 March 2018*
 
 
 Non-partner coverage:
