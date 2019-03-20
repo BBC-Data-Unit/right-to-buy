@@ -60,11 +60,15 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Whitchurch Herald: [£50k profit on Right to Buy homes in Shropshire](https://www.whitchurchherald.co.uk/news/17501737.50k-profit-on-right-to-buy-homes-in-shropshire/) *14 March 2018*
 * Berwick Advertiser: [Data reveals profits made on former council houses](https://www.berwick-advertiser.co.uk/news/data-reveals-profits-made-on-former-council-houses-1-4888817) *14 March 2018*
 * Northumberland Gazette: [Data reveals profits made on former council houses](https://www.northumberlandgazette.co.uk/news/data-reveals-profits-made-on-former-council-houses-1-9648430) *14 March 2018*
+* 853London: [Ex-Greenwich Council tenants have made £72m in Right to Buy profits since 2000](https://853london.com/2019/03/14/ex-greenwich-council-tenants-have-made-72m-in-right-to-buy-profits-since-2000/) *14 March 2018*
 * Northampton Chronicle: [Former social housing tenants in Northampton made up to £148k in profit by selling on their council house](https://www.northamptonchron.co.uk/news/former-social-housing-tenants-in-northampton-made-up-to-148k-in-profit-by-selling-on-their-council-house-1-8851000) *15 March 2018*
+* Hillingdon & Uxbridge Times: [£36000 Profit In A Day - Right to Buy's Biggest Winners Revealed](https://www.hillingdontimes.co.uk/news/17492809.36000-profit-in-a-day-right-to-buys-biggest-winners-revealed/) *12 March 2018*
+* Borehamwood Times: [£36000 Profit In A Day - Right to Buy's Biggest Winners Revealed](https://www.borehamwoodtimes.co.uk/news/17492812.36000-profit-in-a-day-right-to-buys-biggest-winners-revealed/) *12 March 2018*
 * Harwich and Manningtree Standard *14 March 2018*
 * ITV Central *14 March 2018*
 * Coventry Live: [Council house tenants clean up selling homes they bought at a discount](https://www.coventrytelegraph.net/news/coventry-news/council-house-tenants-clean-up-15991325) *18 March 2018*
 * Basildon Echo: [Right to Buy homes across south Essex are being sold on for £50k profit](https://www.echo-news.co.uk/news/17509016.right-to-buy-homes-across-south-essex-are-being-sold-on-for-50k-profit/) *18 March 2018*
+* Clacton Gazette: [Right to Buy under scrutiny in Tendring](https://www.clactonandfrintongazette.co.uk/news/17501753.right-to-buy-under-scrutiny-in-tendring/) *20 March 2018*
 
 
 Non-partner coverage:
@@ -74,6 +78,11 @@ Non-partner coverage:
 * Property Road: [Right To Buy Delivered £6.4bn Profit Since 2000](https://www.propertyroad.co.uk/right-to-buy-delivered-profit/) *14 March 2018*
 * Scottish Housing News: [Scottish council homes sold for £2bn profit under Right to Buy](https://www.scottishhousingnews.com/article/scottish-council-homes-sold-for-2bn-profit-under-right-to-buy) *14 March 2018*
 * [LGiU Daily News Bulletin](https://twitter.com/LGiU_Daily_News/status/1106455060798672896) *15 March 2018* 
+* tutor2u: [Distributional effects of the Right to Buy Scheme](https://www.tutor2u.net/economics/blog/distributional-effects-of-the-right-to-buy-scheme) *14 March 2018*
+* Skint Dad: [Right to Buy Homes Being Resold Quickly for Huge Profit](https://skintdad.co.uk/right-to-buy-sold-profit/) *14 March 2018*
+* reddit: [A former council tenant bought their home under Right to Buy for £8,000 and sold it on for £285,000 nine days later - a £277,000 profit, the BBC found](https://www.reddit.com/r/ukpolitics/comments/b0xbee/a_former_council_tenant_bought_their_home_under/) *14 March 2018*
+* 24housing: [Re-sold Right To Buy homes make £6.4bn in profit](https://www.24housing.co.uk/news/re-sold-right-to-buy-homes-make-6-4bn-in-profit-since-2000/) *14 March 2018*
+
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1J8hc0dvnaRbSNphk3I0SHtiWO0E-uwrQ), Midlands Today, BBC Radio London, BBC Good Morning Ulster, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
 
