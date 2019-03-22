@@ -71,6 +71,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Clacton Gazette: [Right to Buy under scrutiny in Tendring](https://www.clactonandfrintongazette.co.uk/news/17501753.right-to-buy-under-scrutiny-in-tendring/) *20 March 2018*
 * Derbyshire Times: [How Derbyshire ‘Right to Buy’ homeowners ‘raked in thousands’ with quick sales](https://www.derbyshiretimes.co.uk/news/politics/how-derbyshire-right-to-buy-homeowners-raked-in-thousands-with-quick-sales-1-9662735) *20 March 2018* 
 * Welwyn Hatfield Times: [Revealed: the millions in private profit made on Welwyn Hatfield and Hertsmere’s right-to-buy homes](https://www.whtimes.co.uk/news/right-to-buy-profits-in-welwyn-hatfield-and-hertsmere-1-5950385) *21 March 2018*
+* Bury Times: [SPECIAL REPORT: Bury resident makes thousands with Right to Buy scheme](https://www.burytimes.co.uk/news/17518913.special-report-bury-resident-makes-thousands-with-right-to-buy-scheme/) *22 March 2018*
+* Lancashire Telegraph: [SPECIAL REPORT: How does Right to Buy work?](https://www.thisislancashire.co.uk/news/17518918.special-report-how-does-right-to-buy-work/) *22 March 2018*
+* The Bolton News: [SPECIAL REPORT: Chartered Institute of Housing calls to suspend Right to Buy](https://www.thisislancashire.co.uk/news/17518939.special-report-chartered-institute-of-housing-calls-to-suspend-right-to-buy/) *22 March 2018*
+* Strathspey Herald: [Tories’ right to buy a ‘taxpayer disaster’, says finance expert](https://www.strathspey-herald.co.uk/news/tories-right-to-buy-a-taxpayer-disaster-says-finance-expert-175962/) *22 March 2018*
 
 
 Non-partner coverage:
