@@ -70,6 +70,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Basildon Echo: [Right to Buy homes across south Essex are being sold on for £50k profit](https://www.echo-news.co.uk/news/17509016.right-to-buy-homes-across-south-essex-are-being-sold-on-for-50k-profit/) *18 March 2018*
 * Clacton Gazette: [Right to Buy under scrutiny in Tendring](https://www.clactonandfrintongazette.co.uk/news/17501753.right-to-buy-under-scrutiny-in-tendring/) *20 March 2018*
 * Derbyshire Times: [How Derbyshire ‘Right to Buy’ homeowners ‘raked in thousands’ with quick sales](https://www.derbyshiretimes.co.uk/news/politics/how-derbyshire-right-to-buy-homeowners-raked-in-thousands-with-quick-sales-1-9662735) *20 March 2018* 
+* Welwyn Hatfield Times: [Revealed: the millions in private profit made on Welwyn Hatfield and Hertsmere’s right-to-buy homes](https://www.whtimes.co.uk/news/right-to-buy-profits-in-welwyn-hatfield-and-hertsmere-1-5950385) *21 March 2018*
 
 
 Non-partner coverage:
