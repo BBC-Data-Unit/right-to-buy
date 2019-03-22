@@ -69,6 +69,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Coventry Live: [Council house tenants clean up selling homes they bought at a discount](https://www.coventrytelegraph.net/news/coventry-news/council-house-tenants-clean-up-15991325) *18 March 2018*
 * Basildon Echo: [Right to Buy homes across south Essex are being sold on for £50k profit](https://www.echo-news.co.uk/news/17509016.right-to-buy-homes-across-south-essex-are-being-sold-on-for-50k-profit/) *18 March 2018*
 * Clacton Gazette: [Right to Buy under scrutiny in Tendring](https://www.clactonandfrintongazette.co.uk/news/17501753.right-to-buy-under-scrutiny-in-tendring/) *20 March 2018*
+* Derbyshire Times: [How Derbyshire ‘Right to Buy’ homeowners ‘raked in thousands’ with quick sales](https://www.derbyshiretimes.co.uk/news/politics/how-derbyshire-right-to-buy-homeowners-raked-in-thousands-with-quick-sales-1-9662735) *20 March 2018* 
 
 
 Non-partner coverage:
