@@ -75,6 +75,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancashire Telegraph: [SPECIAL REPORT: How does Right to Buy work?](https://www.thisislancashire.co.uk/news/17518918.special-report-how-does-right-to-buy-work/) *22 March 2018*
 * The Bolton News: [SPECIAL REPORT: Chartered Institute of Housing calls to suspend Right to Buy](https://www.thisislancashire.co.uk/news/17518939.special-report-chartered-institute-of-housing-calls-to-suspend-right-to-buy/) *22 March 2018*
 * Scotland: Strathspey Herald: [Tories’ right to buy a ‘taxpayer disaster’, says finance expert](https://www.strathspey-herald.co.uk/news/tories-right-to-buy-a-taxpayer-disaster-says-finance-expert-175962/) *22 March 2018*
+* Newham Recorder: [Mayor slams “dangerous” right to buy as extent of council house sell-ons revealed](https://www.newhamrecorder.co.uk/news/newham-council-right-to-buy-resales-1-5956677) *26 March 2018*
+
 
 
 Non-partner coverage:
