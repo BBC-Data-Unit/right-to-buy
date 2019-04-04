@@ -82,15 +82,15 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 Non-partner coverage:
 
-* The Times: [Right to Buy owners made £6.4bn by reselling homes](https://www.thetimes.co.uk/edition/news/right-to-buy-owners-made-6-4bn-by-reselling-homes-l6xxr76mn) *15 March 2018*
-* Inside Housing: [Morning Briefing: £6.4bn in Right to Buy resale profit](https://www.insidehousing.co.uk/news/morning-briefing-64bn-in-right-to-buy-resale-profit-60624) *14 March 2018*
-* Property Road: [Right To Buy Delivered £6.4bn Profit Since 2000](https://www.propertyroad.co.uk/right-to-buy-delivered-profit/) *14 March 2018*
-* Scottish Housing News: [Scottish council homes sold for £2bn profit under Right to Buy](https://www.scottishhousingnews.com/article/scottish-council-homes-sold-for-2bn-profit-under-right-to-buy) *14 March 2018*
-* [LGiU Daily News Bulletin](https://twitter.com/LGiU_Daily_News/status/1106455060798672896) *15 March 2018* 
-* tutor2u: [Distributional effects of the Right to Buy Scheme](https://www.tutor2u.net/economics/blog/distributional-effects-of-the-right-to-buy-scheme) *14 March 2018*
-* Skint Dad: [Right to Buy Homes Being Resold Quickly for Huge Profit](https://skintdad.co.uk/right-to-buy-sold-profit/) *14 March 2018*
-* reddit: [A former council tenant bought their home under Right to Buy for £8,000 and sold it on for £285,000 nine days later - a £277,000 profit, the BBC found](https://www.reddit.com/r/ukpolitics/comments/b0xbee/a_former_council_tenant_bought_their_home_under/) *14 March 2018*
-* 24housing: [Re-sold Right To Buy homes make £6.4bn in profit](https://www.24housing.co.uk/news/re-sold-right-to-buy-homes-make-6-4bn-in-profit-since-2000/) *14 March 2018*
+* The Times: [Right to Buy owners made £6.4bn by reselling homes](https://www.thetimes.co.uk/edition/news/right-to-buy-owners-made-6-4bn-by-reselling-homes-l6xxr76mn) *15 March 2019*
+* Inside Housing: [Morning Briefing: £6.4bn in Right to Buy resale profit](https://www.insidehousing.co.uk/news/morning-briefing-64bn-in-right-to-buy-resale-profit-60624) *14 March 2019*
+* Property Road: [Right To Buy Delivered £6.4bn Profit Since 2000](https://www.propertyroad.co.uk/right-to-buy-delivered-profit/) *14 March 2019*
+* Scottish Housing News: [Scottish council homes sold for £2bn profit under Right to Buy](https://www.scottishhousingnews.com/article/scottish-council-homes-sold-for-2bn-profit-under-right-to-buy) *14 March 2019*
+* [LGiU Daily News Bulletin](https://twitter.com/LGiU_Daily_News/status/1106455060798672896) *15 March 2019* 
+* tutor2u: [Distributional effects of the Right to Buy Scheme](https://www.tutor2u.net/economics/blog/distributional-effects-of-the-right-to-buy-scheme) *14 March 2019*
+* Skint Dad: [Right to Buy Homes Being Resold Quickly for Huge Profit](https://skintdad.co.uk/right-to-buy-sold-profit/) *14 March 2019*
+* reddit: [A former council tenant bought their home under Right to Buy for £8,000 and sold it on for £285,000 nine days later - a £277,000 profit, the BBC found](https://www.reddit.com/r/ukpolitics/comments/b0xbee/a_former_council_tenant_bought_their_home_under/) *14 March 2019*
+* 24housing: [Re-sold Right To Buy homes make £6.4bn in profit](https://www.24housing.co.uk/news/re-sold-right-to-buy-homes-make-6-4bn-in-profit-since-2000/) *14 March 2019*
 
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1J8hc0dvnaRbSNphk3I0SHtiWO0E-uwrQ), Midlands Today, BBC Radio London, BBC Good Morning Ulster, BBC Radio Bristol, BBC Radio Cornwall, BBC Somerset, BBC Radio Shropshire, BBC Radio Kent, BBC WM 
