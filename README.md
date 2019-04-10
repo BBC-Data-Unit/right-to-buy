@@ -77,6 +77,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Scotland: Strathspey Herald: [Tories’ right to buy a ‘taxpayer disaster’, says finance expert](https://www.strathspey-herald.co.uk/news/tories-right-to-buy-a-taxpayer-disaster-says-finance-expert-175962/) *22 March 2019*
 * Newham Recorder: [Mayor slams “dangerous” right to buy as extent of council house sell-ons revealed](https://www.newhamrecorder.co.uk/news/newham-council-right-to-buy-resales-1-5956677) *26 March 2019*
 * Ham & High: [Revealed: North London’s billion-pound sell-off of right to buy properties](https://www.hamhigh.co.uk/north-london-right-to-buy-resales-1-5956894) *26 March 2019*
+* Hackney Gazette: [Hackney Council slams ‘dysfunctional’ Right to Buy as former tenants pocket £482m profit from selling homes on](https://www.hackneygazette.co.uk/hackney-council-right-to-buy-resales-1-5956977) *26 March 2019*
 * Ludlow Advertiser: [Ex-council tenants in Redditch sell Right to Buy homes for massive profit](https://www.ludlowadvertiser.co.uk/news/regional/17547391.ex-council-tenants-in-redditch-sell-right-to-buy-homes-for-massive-profit/) *3 April 2019*
 * Rochdale News: [Cheapest Rochdale council house sold for just £14 under Right to Buy policy](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/127085/cheapest-rochdale-council-house-sold-for-just-%C2%A314-under-right-to-buy-policy) *4 April 2019*
 
