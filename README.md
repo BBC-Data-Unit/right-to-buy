@@ -82,6 +82,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Islington Gazette: [Call for right-to-buy overhaul as social housing in Islington re-sold for millions of pounds](https://www.islingtongazette.co.uk/news/politics/islington-council-right-to-buy-resales-1-5956921) *26 March 2019*
 * Romford Recorder: [Right to buy: How hundreds of ex-council houses were sold on for millions of pounds](https://www.romfordrecorder.co.uk/news/politics/havering-council-right-to-buy-resales-1-5957021) *26 March 2019*
 * The Docklands & East London Advertiser: [Right to buy: ‘Massive windfalls’ earned by ex-tenants as former social housing sold on for millions of pounds](https://www.eastlondonadvertiser.co.uk/tower-hamlets-right-to-buy-resales-1-5956778) *26 March 2019*
+* The Brent & Kilburn Times: [Editor’s comment: Right to buy? I’m not sure it is](https://www.kilburntimes.co.uk/news/right-to-buy-editor-s-comment-family-silver-1-5958698) *26 March 2019*
 * Ludlow Advertiser: [Ex-council tenants in Redditch sell Right to Buy homes for massive profit](https://www.ludlowadvertiser.co.uk/news/regional/17547391.ex-council-tenants-in-redditch-sell-right-to-buy-homes-for-massive-profit/) *3 April 2019*
 * Rochdale News: [Cheapest Rochdale council house sold for just £14 under Right to Buy policy](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/127085/cheapest-rochdale-council-house-sold-for-just-%C2%A314-under-right-to-buy-policy) *4 April 2019*
 
